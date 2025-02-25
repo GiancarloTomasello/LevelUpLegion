@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprints/BP_Alien.uasset",
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprints/BP_Seed.uasset",
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Q2/392YZJLYN8FQ7DOGMOKQDZ.uasset",
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"D:/Unreal Engine/UnrealProjects/LevelUpLegion_UCJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
