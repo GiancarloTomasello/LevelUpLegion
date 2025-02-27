@@ -6,10 +6,18 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_Spaceman.uasset",
-				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/ABP_Spaceman.uasset",
 				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1S/YS634J43KJ4YRARLS2QV7N.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BPS_Inventory.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/ShipPart.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/ShipPartA.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_ResourceNode.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_DamageType_Melee.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_Projectile.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/EN/XUM6VWAAS8IG4KJAHEJRXI.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QK/BIM9PTATBXXBF7UYG02K9A.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/ABP_Spaceman.uasset",
 				"D:/Unreal Engine/UnrealProjects/LevelUpLegion_UCJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
