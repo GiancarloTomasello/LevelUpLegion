@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BPI_Interact.uasset",
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_Seed.uasset",
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_Alien.uasset",
@@ -61,6 +62,21 @@
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprints/BP_Alien.uasset",
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprints/BP_Seed.uasset",
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprints/BPI_Interact.uasset",
+=======
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/GM_GameJam.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_ShipScanner.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/ShipPartA.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_Spaceman.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_ShipPartA.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/Widgits/W_GameJamHud.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/Widgits/NewWidgetPreview.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/Widgits/W_Health.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/06/KJXMXC8BM17OU377AWQQGP.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/E4/WJBWF9A03JXAIDQUB3MJBD.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PI/8D3OUB4EVTXLC9OJ8EKLEG.uasset",
+				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AE/O4D0FU7Q355808SHY3HASS.uasset",
+>>>>>>> Spaceman
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/61/9UG589LTMW7ZIEUBAW7R0N.uasset",
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/DQ/FNQY3GRZMSOUDMDM07CF93.uasset",
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/ZR/ERK2RNRZVNU1DM16K3J85H.uasset",
