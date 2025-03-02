@@ -9,7 +9,11 @@
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_Seed.uasset",
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/ThirdPerson/Maps/TestPlayground.umap",
 				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_Plant.uasset",
-				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/AC_Planter.uasset"
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/AC_Planter.uasset",
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_HostileAlien.uasset",
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_Projectile.uasset",
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_HealthComponent.uasset",
+				"/Users/marshallsandoval-clark/Documents/Github_Workspaces/LUL_UCJAM/LevelUpLegion/LevelUpLegion_UCJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
 			]
 		}
 	]
