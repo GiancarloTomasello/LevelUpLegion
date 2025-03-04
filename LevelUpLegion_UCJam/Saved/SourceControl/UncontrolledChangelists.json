@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Github/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/ABP_Spaceman.uasset",
+				"D:/Github/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_Spaceman.uasset",
+				"D:/Github/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/GM_GameJam.uasset",
+				"D:/Github/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_ShipScanner.uasset",
+				"D:/Github/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/BC/QMXZOT4QGCA5MCXOKTORWI.uasset",
+				"D:/Github/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/GK/ILNLP9HMRIOC4WYH764YRK.uasset",
+				"D:/Github/LevelUpLegion/LevelUpLegion_UCJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SA/3WZNGFOOROV9HW53KR5EDW.uasset",
 				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/GM_GameJam.uasset",
 				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/Blueprint/BP_ShipScanner.uasset",
 				"C:/Users/HP/Documents/Game Dev/LevelUpLegion/LevelUpLegion_UCJam/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
